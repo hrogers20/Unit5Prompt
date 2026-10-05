@@ -1,0 +1,10 @@
+Chapter 12: Do an internet search and describe the different file types for images used in games and why a specific type is used over 
+another. (Hint: bitmap is not the most preferred file format)
+
+There are several different image file types that can be used when creating games. Some common types are PNG, JPEG, WebP, BMP, and SVG.
+PNG is one of the most useful formats for games because it supports transparent backgrounds and does not lose image quality when it is
+compressed. This makes PNG useful for things like characters, sprites, icons, and other objects that need transparency. JPEG files are
+usually smaller, but they use lossy compression, which means some image quality is lost. They also do not support transparency, so 
+they may be better for backgrounds or detailed pictures. WebP is another useful option because it can have transparency and can use 
+either lossy or lossless compression. BMP, or bitmap, stores images with little or no compression, which can make the files much 
+larger. Because games need to load images efficiently, formats such as PNG and WebP are usually better choices than BMP.
